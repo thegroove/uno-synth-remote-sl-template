@@ -10,3 +10,5 @@ Work in progress, but may be useful to someone anyhow.
 ![Page 1 screenshot](/page1_screenshot.png?raw=true "Page 1")
 
 ![Page 2 screenshot](/page2_screenshot.png?raw=true "Page 2")
+
+Both pages have C-D-E-F-G-A-B notes on drumpads for easy previewing.
